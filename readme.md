@@ -18,4 +18,4 @@
 -   Run php artisan migrate
 -   Run php artisan db:seed
 -   Start developing
--   easy to setup 
+-   easy to setup !
